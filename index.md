@@ -1,4 +1,4 @@
-As a member of the SESYNC cyberinfrastructure team, Kelly provides data science support for SESYNC teams and fellows
+As a member of the SESYNC cyberinfrastructure team, Kelly provides data science support for research teams and fellows
 to help them collaborate (e.g. using shared datasets and version control) and take advantage of scientific 
 computing tools to advance their research. She particularly enjoys working with spatial data, networks, 
 creating interactive visualizations, and reproducible workflows. Kelly is also a PhD candidate at the University 
