@@ -1,4 +1,4 @@
-🏞️.  Kelly Hondula’s research focuses on the effects of water movement through landscapes, with an emphasis on improving water resource management and new monitoring technologies. She studies the interaction of hydrological and biogeochemical processes, especially in headwaters and the smallest water bodies.
+🏞️  Kelly Hondula’s research focuses on the effects of water movement through landscapes, with an emphasis on improving water resource management and new monitoring technologies. She studies the interaction of hydrological and biogeochemical processes, especially in headwaters and the smallest water bodies.
 
 🛩 🗺 🔬    Hondula is currently a postdoc at the [National Ecological Observatory Network](https://www.neonscience.org/), studying new techniques for mapping aquatic ecosystems and water quality by integrating airborne and ground-based aquatic data. 
 
