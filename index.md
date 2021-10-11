@@ -4,7 +4,7 @@
 
 👩‍💻    In her previous role at the [National Socio-Environmental Synthesis Center](https://www.SESYNC.org/), Hondula served on a small team of data scientists supporting diverse computational and analytical needs of interdisciplinary research teams. 
 
-🏆   Her work promoting open science has been supported by the WikiMedia foundation and a data science fellowship from the non-profit organization rOpenSci. 
+🏆   Her work [promoting open science](https://www.youtube.com/watch?v=6ny9Z7CDWq8) has been supported by the WikiMedia foundation and a data science fellowship from the non-profit organization rOpenSci. 
 
 👩‍🎓   Hondula received her doctorate in Marine, Estuarine and Environmental Sciences from the University of Maryland in 2021 and holds undergraduate and master’s degrees in Environmental Sciences from the University of Virginia. 
 
