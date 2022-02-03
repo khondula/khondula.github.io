@@ -6,9 +6,9 @@
 
 🏆   Her work [promoting open science](https://www.youtube.com/watch?v=6ny9Z7CDWq8) has been supported by the WikiMedia foundation and a data science fellowship from the non-profit organization rOpenSci. 
 
-👩‍🎓   Dr. Hondula received her PhD in Marine, Estuarine and Environmental Sciences from the University of Maryland in 2021 and holds undergraduate and master’s degrees in Environmental Sciences from the University of Virginia. 
+👩‍🎓   Dr. Hondula received her PhD in [Marine, Estuarine and Environmental Sciences](https://www.mees.umd.edu/) from the University of Maryland in 2021 and holds undergraduate and master’s degrees in [Environmental Sciences](https://evsc.as.virginia.edu/) from the University of Virginia. 
 
- ✍️  See [google scholar](https://scholar.google.com/citations?user=Xdhvu9QAAAAJ) for her publications which include research on stable isotopes, ecological restoration, stormwater, and flood risk. 
+ ✍️  See [google scholar](https://scholar.google.com/citations?user=Xdhvu9QAAAAJ) for her publications which include research on stable isotopes, ecological restoration, stormwater, flood risk, and more. 
 
 🌎  Check out [WikiProject Limnology & Oceanography](https://twitter.com/WikiProjectLO) to learn about improving aquatic content on Wikipedia!
 
