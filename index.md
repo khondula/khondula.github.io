@@ -8,7 +8,7 @@
 
 👩‍🎓   Dr. Hondula received her PhD in [Marine, Estuarine and Environmental Sciences](https://www.mees.umd.edu/) from the University of Maryland in 2021 and holds undergraduate and master’s degrees in [Environmental Sciences](https://evsc.as.virginia.edu/) from the University of Virginia. 
 
- ✍️  See [google scholar](https://scholar.google.com/citations?user=Xdhvu9QAAAAJ) for her publications which include research on stable isotopes, ecological restoration, stormwater, flood risk, and more. 
+ ✍️  See [google scholar](https://scholar.google.com/citations?user=Xdhvu9QAAAAJ) for her publications which include research on food waste and biodiversity, stable isotopes, ecological restoration, stormwater, flood risk, and more. 
 
 🌎  Check out [WikiProject Limnology & Oceanography](https://twitter.com/WikiProjectLO) to learn about improving aquatic content on Wikipedia!
 
